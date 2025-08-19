@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgba(241, 199, 159, 0.918);
+}
+
+h1{
+    color: #292fa5;
+    text-align: center;
+    font-size: 40px;
+    font-size: 40px;
+    background-color: black;
+    width: auto;
+    list-style: 1rem;
+}
+
+div{
+    text-align: center;
+    color: #640D5F;
+    font-size: 20px;
+    padding-top: 1rem;
+}

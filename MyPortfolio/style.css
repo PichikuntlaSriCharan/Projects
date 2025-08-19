@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    color:#000dffe8;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    width: auto;
+}
+
+
+div{
+    text-align: center;
+    gap: 20px;
+}
+body{
+    background-color: rgba(241, 199, 159, 0.918);
+}
+a{
+    margin-top: 1rem;
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.849);
+    background-color: #91108a;
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    width: 100px;
+    gap: 20px;
+    font-size: 25px;
+}
+
+
+a:hover{
+    box-shadow:-2px 2px 30px #91108a;;
+}
